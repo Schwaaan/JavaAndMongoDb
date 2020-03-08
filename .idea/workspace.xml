@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de4bee59-b174-4e88-9477-65343c03b976" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="de4bee59-b174-4e88-9477-65343c03b976" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/javaAndMongoDb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/PersonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/PersonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/PersonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/PersonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/domain/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/domain/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/maain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/maain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/repository/PersonRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/repository/PersonRepository.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,34 +28,41 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1XF6PSSxFBfJzTooAuL4eDsgxRy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunManager">
     <configuration name="maain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="maain" />
-      <module name="teste-java" />
+      <module name="javaAndMongoDb" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -69,10 +88,44 @@
       <workItem from="1580942176088" duration="1797000" />
       <workItem from="1582507338794" duration="98000" />
       <workItem from="1582507476003" duration="1177000" />
+      <workItem from="1582509904974" duration="289000" />
+      <workItem from="1582510219457" duration="2140000" />
+      <workItem from="1583376739285" duration="467000" />
+      <workItem from="1583657521567" duration="929000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="214" width="800" height="677" key="#Project_Structure" timestamp="1582509915030">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="214" width="800" height="677" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1582509915030" />
+    <state x="834" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582509975209">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="834" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582509975209" />
+    <state x="650" y="197" width="676" height="710" key="#maain" timestamp="1582510770611">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="650" y="197" width="676" height="710" key="#maain/67.27.1853.1053@67.27.1853.1053" timestamp="1582510770611" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582510722698">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1582510722698" />
+    <state x="482" y="187" width="1024" height="845" key="SettingsEditor" timestamp="1582511199360">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1582511199360" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1583658454662">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583658454662" />
+    <state x="638" y="119" width="710" height="867" key="find.popup" timestamp="1582510116670">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="638" y="119" width="710" height="867" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1582510116670" />
   </component>
 </project>

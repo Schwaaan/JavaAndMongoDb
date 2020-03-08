@@ -37,6 +37,7 @@ public class PersonController {
   @PutMapping(path = "v1/persons/registrations-update/{id}")
   public Person updatePerson(@PathVariable("id") String id) {
     Person person = personRepository.findOneByIdAndDeletedIsFalse(id);
+    person.set
     return person;
   }
 
